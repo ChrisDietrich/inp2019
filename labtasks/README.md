@@ -5,6 +5,13 @@ Dieses Verzeichnis enthält freiwillige, zusätzliche Programmieraufgaben, um di
 
 ### Pinger: ein eigenes `ping`
 
+Implementieren Sie eine eigene Variante des `ping`-Kommandos.
 Zur [Aufgabenbeschreibung](pinger/)
+
+
+### Spurleser: ein eigenes `traceroute`
+
+Implementieren Sie eine eigene Variante des `traceroute`-Kommandos.
+Zur [Aufgabenbeschreibung](spurleser/)
 
 
