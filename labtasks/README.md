@@ -15,3 +15,9 @@ Implementieren Sie eine eigene Variante des `traceroute`-Kommandos.
 Zur [Aufgabenbeschreibung](spurleser/)
 
 
+### DNS: Iterativen DNS-Resolver implementieren
+
+Implementieren Sie einen eigenen iterativen DNS-Resolver.
+Zur [Aufgabenbeschreibung](dnstrace/)
+
+
