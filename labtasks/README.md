@@ -21,3 +21,9 @@ Implementieren Sie einen eigenen iterativen DNS-Resolver.
 Zur [Aufgabenbeschreibung](dnstrace/)
 
 
+### HTTP-Daemon: Minimalen HTTP-Server implementieren
+
+Implementieren Sie einen eigenen HTTP-1.1-Server.
+Zur [Aufgabenbeschreibung](http_server/)
+
+
